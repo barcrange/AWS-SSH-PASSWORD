@@ -4,6 +4,16 @@ This script help to Enable Password Authentication in AWS ec2 Instances
 ## Usage just run
 ```
 test@baraka:~/ssh$ bash ssh.sh
+
+████   ████  █    █      ██   █    █  ████
+█      █      █    █     █  █  █    █ █
+ ████   ████  ██████    █    █ █    █  ████
+     █      █ █    █    ██████ █ ██ █      █
+█    █ █    █ █    █    █    █ ██  ██ █    █
+ ████   ████  █    █    █    █ █    █  ████
+
+SSH AWS
+by barcrange
 Enter the IP address: Your_ip
 Enter the username: Username
 Enter the path to the SSH key file: location_pem
