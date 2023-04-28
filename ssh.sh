@@ -1,6 +1,15 @@
 #!/bin/bash
 
-#@barcrange
+echo "
+████   ████  █    █      ██   █    █  ████
+█      █      █    █     █  █  █    █ █
+ ████   ████  ██████    █    █ █    █  ████
+     █      █ █    █    ██████ █ ██ █      █
+█    █ █    █ █    █    █    █ ██  ██ █    █
+ ████   ████  █    █    █    █ █    █  ████
+
+by barcrange
+"
 
 # input for ip,username,key
 read -p "Enter the IP address: " ip_address
