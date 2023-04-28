@@ -1,5 +1,5 @@
 # AWS-SSH-PASSWORD
-This script help to change from key file during ssh to password
+This script help to Enable Password Authentication in AWS ec2 Instances
 
 ## Usage just run
 ```
