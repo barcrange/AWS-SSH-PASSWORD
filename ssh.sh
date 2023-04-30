@@ -12,7 +12,7 @@ by barcrange
 "
 
 # input for ip,username,key
-read -p "Enter the IP address: " ip_address
+read -p "Enter the AWS public ip address: " ip_address
 read -p "Enter the username: " username
 read -p "Enter the path to the SSH key file: " key_file
 
